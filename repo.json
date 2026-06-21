@@ -87,33 +87,5 @@
         "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.71/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.71/latest.zip",
         "LastUpdate":  1782061769
-    },
-    {
-        "Author":  "Nainaiowo",
-        "Name":  "Debugger Logger",
-        "InternalName":  "DebuggerLogger",
-        "AssemblyVersion":  "0.1.0.0",
-        "DownloadCount":  6,
-        "Description":  "Stores structured log-message, action-effect, and party snapshot data locally for combat debugging.",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/Nainaiowo/debugger-logger",
-        "Tags":  [
-                     "debug",
-                     "logger",
-                     "combat"
-                 ],
-        "DalamudApiLevel":  15,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "Punchline":  "Capture local combat debug logs.",
-        "AcceptsFeedback":  true,
-        "IsHide":  false,
-        "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://github.com/Nainaiowo/debugger-logger/releases/download/v0.1.0.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/Nainaiowo/debugger-logger/releases/download/v0.1.0.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/Nainaiowo/debugger-logger/releases/download/v0.1.0.0/latest.zip",
-        "LastUpdate":  1781927727
     }
 ]

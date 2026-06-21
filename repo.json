@@ -62,7 +62,7 @@
         "Author":  "Nainaiowo",
         "Name":  "Better Deaths",
         "InternalName":  "BetterDeaths",
-        "AssemblyVersion":  "0.1.0.71",
+        "AssemblyVersion":  "0.1.0.72",
         "DownloadCount":  106,
         "Description":  "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
         "ApplicableVersion":  "any",
@@ -83,9 +83,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.71/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.71/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.71/latest.zip",
-        "LastUpdate":  1782061769
+        "DownloadLinkInstall":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.72/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.72/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.72/latest.zip",
+        "LastUpdate":  1782078907
     }
 ]

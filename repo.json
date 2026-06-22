@@ -33,6 +33,7 @@
         "Name":  "Better Deaths",
         "InternalName":  "BetterDeaths",
         "AssemblyVersion":  "0.1.0.79",
+        "TestingAssemblyVersion":  "0.1.0.80",
         "DownloadCount":  141,
         "Description":  "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
         "ApplicableVersion":  "any",
@@ -45,6 +46,8 @@
                      "progression"
                  ],
         "DalamudApiLevel":  15,
+        "TestingDalamudApiLevel":  15,
+        "TestingChangelog":  "Testing channel setup for Better Deaths. This build uses the main BetterDeaths plugin identity and is only for users opted into testing builds.",
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
@@ -54,7 +57,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.79/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.79/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.80-testing/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.79/latest.zip",
         "LastUpdate":  1782143624
     }

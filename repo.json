@@ -4,7 +4,7 @@
         "Name":  "Chibi Chaos",
         "InternalName":  "ChibiChaos",
         "AssemblyVersion":  "0.1.17.6",
-        "DownloadCount":  99,
+        "DownloadCount":  102,
         "Description":  "Scales down Chaos in DMU for visibility.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Nainaiowo/chibi-chaos",
@@ -32,8 +32,8 @@
         "Author":  "Nainaiowo",
         "Name":  "Better Deaths",
         "InternalName":  "BetterDeaths",
-        "AssemblyVersion":  "0.1.0.75",
-        "DownloadCount":  106,
+        "AssemblyVersion":  "0.1.0.76",
+        "DownloadCount":  138,
         "Description":  "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Nainaiowo/better-deaths",
@@ -53,9 +53,9 @@
         "AcceptsFeedback":  true,
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.75/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.75/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.75/latest.zip",
-        "LastUpdate":  1782102976
+        "DownloadLinkInstall":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.76/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.76/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.76/latest.zip",
+        "LastUpdate":  1782133974
     }
 ]

@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.81",
-    "TestingAssemblyVersion": "0.1.0.81",
+    "TestingAssemblyVersion": "0.1.0.83",
     "DownloadCount": 167,
     "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -47,7 +47,7 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Testing is temporarily aligned with the stable v0.1.0.81 release.",
+    "TestingChangelog": "Testing rollback package aligned with stable behavior while removing the rejected HP unavailable chat text.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,8 +57,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.83-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "LastUpdate": 1782181392
+    "LastUpdate": 1782181655
   }
 ]

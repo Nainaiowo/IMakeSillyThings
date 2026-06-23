@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.81",
-    "TestingAssemblyVersion": "0.1.0.95",
+    "TestingAssemblyVersion": "0.1.0.96",
     "DownloadCount": 172,
     "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -47,7 +47,7 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Simplified manual chat recap posts, added overkill to the first line, and aligned chat mitigation/debuff context with the selected recap data.",
+    "TestingChangelog": "Changed Better Deaths recap hyperlinks to use the shorter [ Open Recap ] label.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,8 +57,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.95-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.96-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "LastUpdate": 1782234555
+    "LastUpdate": 1782234556
   }
 ]

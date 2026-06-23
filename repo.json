@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.81",
-    "TestingAssemblyVersion": "0.1.0.92",
+    "TestingAssemblyVersion": "0.1.0.93",
     "DownloadCount": 172,
     "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -47,7 +47,7 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Adjusted the one-time acknowledgement notice presentation.",
+    "TestingChangelog": "Added an opt-in setting for automatic death recap links and adjusted shared recap link ordering.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,8 +57,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.92-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.93-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.81/latest.zip",
-    "LastUpdate": 1782231974
+    "LastUpdate": 1782233520
   }
 ]

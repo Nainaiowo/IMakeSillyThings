@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.99",
-    "TestingAssemblyVersion": "0.1.0.117",
+    "TestingAssemblyVersion": "0.1.0.118",
     "DownloadCount": 294,
     "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Fixed plugin installer download count display.",
-    "TestingChangelog": "Indented current pull widget text.",
+    "TestingChangelog": "Testing polish.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,8 +58,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.99/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.117-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.118-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.99/latest.zip",
-    "LastUpdate": 1782334682
+    "LastUpdate": 1782344452
   }
 ]

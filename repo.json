@@ -32,8 +32,8 @@
     "Author": "Nainaiowo",
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
-    "AssemblyVersion": "0.1.0.121",
-    "TestingAssemblyVersion": "0.1.0.122",
+    "AssemblyVersion": "0.1.0.123",
+    "TestingAssemblyVersion": "0.1.0.123",
     "DownloadCount": 343,
     "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -47,8 +47,8 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "Changelog": "Added a name redaction option in settings",
-    "TestingChangelog": "Testing UI wording cleanup",
+    "Changelog": "Data tables were refined and cleaned",
+    "TestingChangelog": "Data tables were refined and cleaned",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,9 +57,9 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.121/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.122-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.121/latest.zip",
-    "LastUpdate": 1782359986
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.123/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.123-testing/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.123/latest.zip",
+    "LastUpdate": 1782367719
   }
 ]

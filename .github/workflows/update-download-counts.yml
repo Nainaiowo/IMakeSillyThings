@@ -3,7 +3,9 @@ name: Update download counts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7,27,47 * * * *"
+    - cron: "7 * * * *"
+    - cron: "27 * * * *"
+    - cron: "47 * * * *"
 
 permissions:
   contents: write

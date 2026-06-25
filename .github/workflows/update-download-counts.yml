@@ -17,11 +17,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DOWNLOAD_COUNT_PAT }}
 
       - name: Update repo metadata
         shell: pwsh
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.DOWNLOAD_COUNT_PAT }}
         run: ./scripts/update-download-counts.ps1
 
       - name: Commit changes

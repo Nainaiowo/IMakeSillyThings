@@ -32,8 +32,8 @@
     "Author": "Nainaiowo",
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
-    "AssemblyVersion": "0.1.0.135",
-    "TestingAssemblyVersion": "0.1.0.135",
+    "AssemblyVersion": "0.1.0.136",
+    "TestingAssemblyVersion": "0.1.0.136",
     "DownloadCount": 415,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -47,8 +47,8 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "Changelog": "Added more theme options.\nStartup impact was causing issues, and we've refactored how the local data gets read by the plugin on launch. Loads and updates should now be smooth after the new changes go into effect.\nTheme choices are now split into dark and light sections.\nTheme highlights and table rows are easier to read across themes.\nCleaned up settings buttons.",
-    "TestingChangelog": "Added more light theme options.\nTheme choices are now split into dark and light sections.\nCleaned up settings buttons.",
+    "Changelog": "Added a Data page with privacy and local storage information.\nBetter Deaths now shows local saved pull storage, debug file size, and local data folder size.\nAdded clearer wording that Better Deaths does not upload data and has no upload functions built into the plugin.",
+    "TestingChangelog": "Added a Data page with privacy and local storage information.\nBetter Deaths now shows local saved pull storage, debug file size, and local data folder size.\nAdded clearer wording that Better Deaths does not upload data and has no upload functions built into the plugin.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,9 +57,9 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135/latest.zip",
-    "LastUpdate": 1782445576
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.136/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.136-testing/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.136/latest.zip",
+    "LastUpdate": 1782447263
   }
 ]

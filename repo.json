@@ -34,7 +34,7 @@
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.136",
     "TestingAssemblyVersion": "0.1.0.148",
-    "DownloadCount": 495,
+    "DownloadCount": 515,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Nainaiowo/better-deaths",

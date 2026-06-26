@@ -32,7 +32,7 @@
     "Author": "Nainaiowo",
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
-    "AssemblyVersion": "0.1.0.132",
+    "AssemblyVersion": "0.1.0.135",
     "TestingAssemblyVersion": "0.1.0.135",
     "DownloadCount": 415,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
@@ -47,7 +47,7 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "Changelog": "Improved fatal event selection for multi-hit deaths.\nAdded a variety of theme options.\nFixed the clock icon in lead-up table headers.\nImproved widget preview and recap popup theming.\nImproved theme contrast and window spacing.\nCleaned up window spacing and header text.\nCleaned up settings and review table layout.",
+    "Changelog": "Added more theme options.\nStartup impact was causing issues, and we've refactored how the local data gets read by the plugin on launch. Loads and updates should now be smooth after the new changes go into effect.\nTheme choices are now split into dark and light sections.\nTheme highlights and table rows are easier to read across themes.\nCleaned up settings buttons.",
     "TestingChangelog": "Added more light theme options.\nTheme choices are now split into dark and light sections.\nCleaned up settings buttons.",
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -57,9 +57,9 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.132/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135/latest.zip",
     "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.132/latest.zip",
-    "LastUpdate": 1782444571
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.135/latest.zip",
+    "LastUpdate": 1782445576
   }
 ]

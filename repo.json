@@ -32,7 +32,7 @@
     "Author": "Nainaiowo",
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
-    "AssemblyVersion": "0.1.0.149",
+    "AssemblyVersion": "0.1.0.150",
     "TestingAssemblyVersion": "0.1.0.149",
     "DownloadCount": 534,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
@@ -47,7 +47,7 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "Changelog": "Fatal hit capture has been improved so death data should line up more cleanly with the 10s lead-up.\nAdded Moonlit, Wisteria, and Blush themes.\nAdded a Timeline / Events toggle in the 10s lead-up.\nAdded physical and magic icons to hit information.\nAuto-attacks now show as Auto instead of Action or Attack.",
+    "Changelog": "Added enemy HP at death to fatal event details.",
     "TestingChangelog": "Fatal hit capture has been improved so death data should line up more cleanly with the 10s lead-up.\nAdded Moonlit, Wisteria, and Blush themes.\nAdded a Timeline / Events toggle in the 10s lead-up.\nAdded physical and magic icons to hit information.\nAuto-attacks now show as Auto instead of Action or Attack.",
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -57,9 +57,9 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.149/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.150/latest.zip",
     "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.149-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.149/latest.zip",
-    "LastUpdate": 1782485740
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.150/latest.zip",
+    "LastUpdate": 1782496752
   }
 ]

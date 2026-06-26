@@ -33,8 +33,8 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.136",
-    "TestingAssemblyVersion": "0.1.0.142",
-    "DownloadCount": 488,
+    "TestingAssemblyVersion": "0.1.0.143",
+    "DownloadCount": 489,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Added a Data page with privacy and local storage information.\nBetter Deaths now shows local saved pull storage, debug file size, and local data folder size.\nAdded clearer wording that Better Deaths does not upload data and has no upload functions built into the plugin.",
-    "TestingChangelog": "Adjusted the Debug Strategy Board test layout.",
+    "TestingChangelog": "Adjusted the Debug Strategy Board inspector.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,8 +58,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.136/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.142-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.143-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.136/latest.zip",
-    "LastUpdate": 1782479105
+    "LastUpdate": 1782480355
   }
 ]

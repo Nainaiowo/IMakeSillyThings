@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.132",
-    "TestingAssemblyVersion": "0.1.0.133",
+    "TestingAssemblyVersion": "0.1.0.134",
     "DownloadCount": 415,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Improved fatal event selection for multi-hit deaths.\nAdded a variety of theme options.\nFixed the clock icon in lead-up table headers.\nImproved widget preview and recap popup theming.\nImproved theme contrast and window spacing.\nCleaned up window spacing and header text.\nCleaned up settings and review table layout.",
-    "TestingChangelog": "Theme options now have persistent New markers.\nMarble theme highlights are easier to read.\nAlternating table rows are easier to see across themes.",
+    "TestingChangelog": "Recorded pulls now load with less startup impact.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,8 +58,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.132/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.133-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.134-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.132/latest.zip",
-    "LastUpdate": 1782439587
+    "LastUpdate": 1782441869
   }
 ]

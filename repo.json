@@ -90,5 +90,34 @@
     "DownloadLinkTesting": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.7/latest.zip",
     "LastUpdate": 1782569374
+  },
+  {
+    "Author": "Nainaiowo",
+    "Name": "Honorific Cycle",
+    "InternalName": "HonorificCycle",
+    "AssemblyVersion": "0.1.0.1",
+    "DownloadCount": 0,
+    "Description": "Lets you create and rotate custom Honorific titles with color, glow, gradient, and animation options.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Nainaiowo/honorific-cycle",
+    "Tags": [
+      "honorific",
+      "title",
+      "cosmetic",
+      "cycle"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Cycle custom Honorific titles.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/honorific-cycle/releases/download/v0.1.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/honorific-cycle/releases/download/v0.1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/honorific-cycle/releases/download/v0.1.0.1/latest.zip",
+    "LastUpdate": 1782580481
   }
 ]

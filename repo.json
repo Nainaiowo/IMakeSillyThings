@@ -34,7 +34,7 @@
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.151",
     "TestingAssemblyVersion": "0.1.0.149",
-    "DownloadCount": 569,
+    "DownloadCount": 575,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
@@ -61,5 +61,34 @@
     "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.149-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.151/latest.zip",
     "LastUpdate": 1782544195
+  },
+  {
+    "Author": "Nainaiowo",
+    "Name": "Nai Debug Console",
+    "InternalName": "NaiDebugConsole",
+    "AssemblyVersion": "0.1.0.1",
+    "DownloadCount": 0,
+    "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
+    "Tags": [
+      "debug",
+      "logger",
+      "combat",
+      "strategy"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Local debug tools for troubleshooting.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.1/latest.zip",
+    "LastUpdate": 1782545179
   }
 ]

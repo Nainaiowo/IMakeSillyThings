@@ -33,8 +33,8 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.151",
-    "TestingAssemblyVersion": "0.1.0.159",
-    "DownloadCount": 643,
+    "TestingAssemblyVersion": "0.1.0.160",
+    "DownloadCount": 644,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Improved enemy HP at death readability.",
-    "TestingChangelog": "Added more theme options and cleaner 10s lead-up timer controls.",
+    "TestingChangelog": "Refined the mitigation What-if table.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,9 +58,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.151/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.159-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.160-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.151/latest.zip",
-    "LastUpdate": 1782624403
+    "LastUpdate": 1782625434
   },
   {
     "Author": "Nainaiowo",

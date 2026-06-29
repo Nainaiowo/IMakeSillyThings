@@ -33,8 +33,8 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.167",
-    "TestingAssemblyVersion": "0.1.0.168",
-    "DownloadCount": 698,
+    "TestingAssemblyVersion": "0.1.0.169",
+    "DownloadCount": 700,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Death HP capture now uses the hit snapshot, so overkill and lead-up HP should stay tied to the actual fatal hit. Player mitigation timers now show when Timers is enabled.",
-    "TestingChangelog": "10s lead-up Timeline now shows the event source. Healing in HP bars now looks more natural.",
+    "TestingChangelog": "HP bars now show damage loss and healing growth more clearly in the 10s lead-up.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,9 +58,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.167/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.168-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.169-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.167/latest.zip",
-    "LastUpdate": 1782693157
+    "LastUpdate": 1782694772
   },
   {
     "Author": "Nainaiowo",

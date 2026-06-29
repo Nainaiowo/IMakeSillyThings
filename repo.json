@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.173",
-    "TestingAssemblyVersion": "0.1.0.177",
+    "TestingAssemblyVersion": "0.1.0.178",
     "DownloadCount": 770,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Added a Feedback tab with a confirmation before opening the Google Forms link. Replay now stays visible as a disabled Coming soon tab while replay work continues.",
-    "TestingChangelog": "Replay controls and mock mechanic rendering were added for testing.",
+    "TestingChangelog": "Replay now uses a square arena view with smoother movement. Known overhead markers now draw replay overlays for testing. Replay captures known Black Hole helper objects for new pulls.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,15 +58,15 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.173/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.177-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.178-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.173/latest.zip",
-    "LastUpdate": 1782758434
+    "LastUpdate": 1782758435
   },
   {
     "Author": "Nainaiowo",
     "Name": "Nai Debug Console",
     "InternalName": "NaiDebugConsole",
-    "AssemblyVersion": "0.1.0.9",
+    "AssemblyVersion": "0.1.0.10",
     "DownloadCount": 15,
     "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
     "ApplicableVersion": "any",
@@ -86,10 +86,10 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.9/latest.zip",
-    "LastUpdate": 1782734840
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.10/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/nai-debug-console/releases/download/v0.1.0.10/latest.zip",
+    "LastUpdate": 1782758435
   },
   {
     "Author": "Nainaiowo",

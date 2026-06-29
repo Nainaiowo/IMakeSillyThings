@@ -32,7 +32,7 @@
     "Author": "Nainaiowo",
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
-    "AssemblyVersion": "0.1.0.167",
+    "AssemblyVersion": "0.1.0.171",
     "TestingAssemblyVersion": "0.1.0.171",
     "DownloadCount": 708,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
@@ -47,8 +47,8 @@
     ],
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
-    "Changelog": "Death HP capture now uses the hit snapshot, so overkill and lead-up HP should stay tied to the actual fatal hit. Player mitigation timers now show when Timers is enabled.",
-    "TestingChangelog": "The in-plugin information page was updated to match the current Better Deaths features.",
+    "Changelog": "10s lead-up HP bars now show damage loss and healing growth more clearly. 10s lead-up Timeline now shows the event source. Help markers were cleaned up visually. The in-plugin information page was updated to match the current Better Deaths features.",
+    "TestingChangelog": "10s lead-up HP bars now show damage loss and healing growth more clearly. 10s lead-up Timeline now shows the event source. Help markers were cleaned up visually. The in-plugin information page was updated to match the current Better Deaths features.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -57,10 +57,10 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.167/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.171/latest.zip",
     "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.171-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.167/latest.zip",
-    "LastUpdate": 1782697790
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.171/latest.zip",
+    "LastUpdate": 1782698260
   },
   {
     "Author": "Nainaiowo",

@@ -33,7 +33,7 @@
     "Name": "Better Deaths",
     "InternalName": "BetterDeaths",
     "AssemblyVersion": "0.1.0.173",
-    "TestingAssemblyVersion": "0.1.0.183",
+    "TestingAssemblyVersion": "0.1.0.184",
     "DownloadCount": 782,
     "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
     "ApplicableVersion": "any",
@@ -48,7 +48,7 @@
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "Changelog": "Added a Feedback tab with a confirmation before opening the Google Forms link. Replay now stays visible as a disabled Coming soon tab while replay work continues.",
-    "TestingChangelog": "Replay view should run smoother while playing and scrubbing.",
+    "TestingChangelog": "Replay zoom and scrolling interactions were fixed.",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -58,9 +58,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.173/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.183-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.184-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nainaiowo/better-deaths/releases/download/v0.1.0.173/latest.zip",
-    "LastUpdate": 1782790233
+    "LastUpdate": 1782791712
   },
   {
     "Author": "Nainaiowo",

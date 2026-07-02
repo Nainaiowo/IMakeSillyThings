@@ -3,7 +3,7 @@
     "Author": "Nainaiowo",
     "Name": "Chibi Chaos",
     "InternalName": "ChibiChaos",
-    "AssemblyVersion": "0.1.17.6",
+    "AssemblyVersion": "0.1.17.7",
     "DownloadCount": 138,
     "Description": "Scales down Chaos in DMU for visibility.",
     "ApplicableVersion": "any",
@@ -23,10 +23,10 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.6/latest.zip",
-    "LastUpdate": 1781955687
+    "DownloadLinkInstall": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
+    "LastUpdate": 1782971011
   },
   {
     "Author": "Nainaiowo",

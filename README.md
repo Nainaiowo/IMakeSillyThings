@@ -1,8 +1,14 @@
 # IMakeSillyThings
 
-Custom Dalamud plugin repository for Nainaiowo plugins.
+Legacy custom Dalamud plugin repository for Nainaiowo plugins.
 
-Add this custom plugin repository URL in Dalamud:
+New installs should use this Puni repository URL in Dalamud:
+
+```text
+https://puni.sh/api/repository/nainai
+```
+
+This legacy feed remains available for existing installs during the transition:
 
 ```text
 https://raw.githubusercontent.com/Nainaiowo/IMakeSillyThings/refs/heads/main/repo.json

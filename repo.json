@@ -1,35 +1,6 @@
 [
   {
     "Author": "Nainaiowo",
-    "Name": "Chibi Chaos",
-    "InternalName": "ChibiChaos",
-    "AssemblyVersion": "0.1.17.7",
-    "DownloadCount": 153,
-    "Description": "Scales down Chaos in DMU for visibility.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-    "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/chibi-chaos/main/assets/icon.png",
-    "Tags": [
-      "chaos",
-      "scale",
-      "ultimate"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Scale down Chaos",
-    "AcceptsFeedback": true,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Nainaiowo/chibi-chaos/releases/download/v0.1.17.7/latest.zip",
-    "LastUpdate": 1782971011
-  },
-  {
-    "Author": "Nainaiowo",
     "Name": "Honorific Cycle",
     "InternalName": "HonorificCycle",
     "AssemblyVersion": "0.1.0.1",
